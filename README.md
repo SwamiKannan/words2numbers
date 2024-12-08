@@ -18,4 +18,4 @@ We may also pronounce it in other ways i.e.
 1. Two thousand twenty four (without the 'and')
 2. two thousand and twenty fourTH (to refer to the 2024th item)
 
-However, what we want the return value to be is only  "2024". This library seeks to do that.
+**However, what we want is for the return value to be only  "2024"**. This library seeks to do that.
