@@ -46,3 +46,15 @@ def words_to_numbers(input_string):
 
 # Testing the code     
 if __name__ == "__main__":
+    inputs = [
+    "four hundred and fifteenth",
+    "two forty five",
+    "thirteenth",
+    "thirteen",
+    "two hundred and forty seven",
+    "three thousand two hundred forty first"
+]
+
+for input_str in inputs:
+    result = words_to_numbers(input_str)
+    print(f"Input: '{input_str}' => Output: {result}")
