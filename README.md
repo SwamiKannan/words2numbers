@@ -19,6 +19,8 @@ We may also pronounce it in other ways i.e.
 2. two thousand and twenty fourTH (to refer to the 2024th item)
 
 **However, what we want is for the return value to be only  "2024"**. This library seeks to do that.
+
+## Sample inputs / outputs
 ```
 Input: 'four hundred and fifteenth' => Output: 415
 Input: 'two forty five' => Output: 245
