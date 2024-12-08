@@ -3,6 +3,7 @@
   <img src = "images/cover.png" width=60%>
 </p>
 
+## Introduction and use case
 This repo has been created with a very specific use case. Solving the issue of converting words to numbers while using speech-to-text.
 
 I am currently working on a tool that has its own text based naviational interface (similar to search for news, videos, etc.). An iterim output of this interface is to provide a list of options that the user can choose from to get into more detail of that option. 
