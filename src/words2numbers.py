@@ -43,3 +43,6 @@ def words_to_numbers(input_string):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         return None
+
+# Testing the code     
+if __name__ == "__main__":
