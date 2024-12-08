@@ -1,6 +1,6 @@
 # Tools for AI agent: Words to numbers
 <p align= 'center'>
-  
+  <img src = "images/cover.png"
 </p>
 
 This repo has been created with a very specific use case. Using voice / STT models to navigate a list.
