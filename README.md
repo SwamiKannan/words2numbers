@@ -29,7 +29,15 @@ Input: 'thirteen' => Output: 13
 Input: 'two hundred and forty seven' => Output: 247
 Input: 'three thousand two hundred forty first' => Output: 3241
 ```
-
+## Installation
+1. Download this repo.From the command line:
+    ```
+    git clone https://github.com/SwamiKannan/words2numbers.git
+    ```
+2. Install the requirements
+   ```
+   pip install -r requirements.txt
+   ```
 ## Usage
 ```
 from src.words2numbers import words_to_numbers
