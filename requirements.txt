@@ -1,0 +1,2 @@
+inflect==7.4.0
+text2digits==0.1.0
